@@ -1,4 +1,5 @@
-Market Research Agent 📈🤖
+##Market Research Agent 📈🤖
+
 An autonomous AI-powered application designed to provide real-time market intelligence and actionable insights.
 
 Project Overview
